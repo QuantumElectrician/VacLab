@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <math.h>
+#include <stdlib.h>
 
 
 #define name "B3.txt" //имя исходного файла
