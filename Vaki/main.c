@@ -11,6 +11,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <math.h>
+
 #define name "B3.txt" //имя исходного файла
 #define name1 "B3new+.txt" //имя модифицированной копии файла
 
